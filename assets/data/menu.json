@@ -1,0 +1,35 @@
+{
+    "app_name": "Moments",
+    "routes": [
+        {
+            "path": "alert",
+            "icon": "add_alert",
+            "name": "Alerts"
+        },
+        {
+            "path": "avatar",
+            "icon": "accessibility",
+            "name": "Sliders"
+        },
+        {
+            "path": "card",
+            "icon": "folder_open",
+            "name": "Cards"
+        },
+        {
+            "path": "animated",
+            "icon": "donut_large",
+            "name": "Animated Container"
+        },
+        {
+            "path": "inputs",
+            "icon": "input",
+            "name": "Inputs"
+        },
+        {
+            "path": "list",
+            "icon": "list",
+            "name": "Lists"
+        }
+    ]
+}
