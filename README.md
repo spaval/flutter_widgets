@@ -4,7 +4,7 @@ Widgets to demostrate the power of Flutter
 
 ## Powered by
 
-- [Bongga | On the Go](https://bongga.co)
+- [Bongga | On the Go](https://bongga.dev)
 
 For help getting started with Flutter, view our 
 [online documentation](https://flutter.dev/docs), which offers tutorials, 
